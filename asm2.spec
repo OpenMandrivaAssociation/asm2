@@ -3,7 +3,7 @@
 
 Name:		asm2
 Version:	2.2.3
-Release:	%mkrel 3
+Release:	%mkrel 4
 Epoch:		0
 Summary:	A code manipulation tool to implement adaptable systems
 License:	BSD-like
@@ -16,8 +16,6 @@ BuildRequires:	ant
 BuildRequires:	jpackage-utils >= 0:1.6
 BuildRequires:	objectweb-anttask
 %if %{gcj_support}
-Requires(post):	java-gcj-compat	
-Requires(postun): java-gcj-compat
 BuildRequires:	java-gcj-compat-devel
 %else
 BuildArch:      noarch
