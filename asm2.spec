@@ -3,7 +3,7 @@
 
 Name:		asm2
 Version:	2.2.3
-Release:	%mkrel 4
+Release:	%mkrel 5
 Epoch:		0
 Summary:	A code manipulation tool to implement adaptable systems
 License:	BSD-like
@@ -13,7 +13,7 @@ Group:		Development/Java
 #Distribution:	JPackage
 Source0:	http://download.fr2.forge.objectweb.org/asm/asm-2.2.3.tar.bz2
 BuildRequires:	ant
-BuildRequires:	jpackage-utils >= 0:1.6
+BuildRequires:	java-rpmbuild >= 0:1.6
 BuildRequires:	objectweb-anttask
 %if %{gcj_support}
 BuildRequires:	java-gcj-compat-devel
