@@ -3,7 +3,7 @@
 
 Name:		asm2
 Version:	2.2.3
-Release:	%mkrel 9
+Release:	%mkrel 10
 Epoch:		0
 Summary:	A code manipulation tool to implement adaptable systems
 License:	BSD-like
