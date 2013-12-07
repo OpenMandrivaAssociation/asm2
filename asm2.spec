@@ -1,6 +1,6 @@
 Name:		asm2
 Version:	2.2.3
-Release:	14
+Release:	15
 Summary:	A code manipulation tool to implement adaptable systems
 License:	BSD-like
 URL:		http://asm.objectweb.org/
