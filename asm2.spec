@@ -3,7 +3,7 @@ Version:	2.2.3
 Release:	20
 Summary:	A code manipulation tool to implement adaptable systems
 License:	BSD-like
-URL:		http://asm.objectweb.org/
+URL:		https://asm.objectweb.org/
 Group:		Development/Java
 #Vendor:		JPackage Project
 #Distribution:	JPackage
